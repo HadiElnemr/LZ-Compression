@@ -4,7 +4,7 @@ A Digital System Design project, we implemented a text compressor and decompress
 
 ## Example
 #### Compression Output
-input  = this is a new input of 64 characters to test the code correctly
+input  = this is a new input of 64 characters to test the code correctly <br>
 output = #t #h #i #s #  2s 4a 4n #e #w 4i #n #p #u 0  #0 #f 46 #4 4c 1a #r #a $c 0e21s 4t15 24s14t 1e19o #d 8 23o21r 8c 0l #$ #
 #### Decompression Output
 output = this is a new input of 64 characters to test the code correctl!
